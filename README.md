@@ -15,6 +15,6 @@
 
 ### 页面
 <center>
-<img src="./static/eg.jpg" width='375' height='667'/>
+<img src="./app/imgs/eg.jpg" width='375' height='667'/>
 </center>
 
